@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSBiY49td0I/UgLtNqiv6rzOief7xDLVGeKEHu1lPpUsI5jgR5ybr6uRhDp8NStOQtQEQkTyt3Z67JmaNupt3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tnqar\\OneDrive\\Рабочий стол\\NetworkProgramming\\Homeworks\\VideoUDPFold\\VideoUDP\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tnqar\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\tnqar\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

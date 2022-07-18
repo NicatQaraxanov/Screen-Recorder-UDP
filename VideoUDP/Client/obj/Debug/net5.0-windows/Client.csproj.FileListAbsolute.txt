@@ -1,0 +1,96 @@
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.Form1.resources
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.Foundation.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.UI.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.Xaml.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\bin\Debug\net5.0-windows\Uno.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.csproj.CopyComplete
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
+C:\Users\tnqar\source\repos\SSsecond\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.Foundation.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.Xaml.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.Form1.resources
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.csproj.CopyComplete
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDP\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.Foundation.Logging.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.Foundation.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.Composition.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.Dispatching.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.Toolkit.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.UI.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.Xaml.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\bin\Debug\net5.0-windows\Uno.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.Form1.resources
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.csproj.CopyComplete
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\NetworkProgramming\Homeworks\VideoUDPFold\VideoUDP\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
